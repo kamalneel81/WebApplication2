@@ -15,9 +15,9 @@
         smvdu&nbsp; Family</div>
         <div id="footer">
             <p align="center"><font color="silver">Internship | SMVDU,Jammu </font></p>
-            <p align="center"><font color="silver">Shri Mata Vaishno Devi University Campus |&nbsp;Sub-Post Office, Katra, &nbsp;| </font>
+            <p align="center"><font color="silver">Shri Mata Vaishno Devi University Campus |&nbsp;Sub-Post Office, Katra, Jammu &nbsp;| </font>
             <font color="silver">Jammu and Kashmir - 182320 </font><br />
-            <font color="silver">Phone: </font><font color="silver">01991-285535 //  285524 |&nbsp;Email: <a href="mailto:info@smvdu.ac.in">info@smvdu.ac.in</a> </font></p>
+            <font color="silver">Phone&bull; </font><font color="silver">01991-285535 //  285524 |&nbsp;Email: <a href="mailto:info@smvdu.ac.in">info@smvdu.ac.in</a> </font></p>
     </div>
     </form>
 </body>
