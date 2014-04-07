@@ -1,0 +1,92 @@
+﻿body 
+{
+    border:5px solid white;
+    margin-left:auto;
+    margin-right:auto;
+    width:950px;    
+    background:repeat;
+    background-color:#717A5D
+}
+h3
+{
+    border: black 1px solid;
+    color:black;
+    font-family:Verdana;
+    font-size:22px;
+    background-color:Gray;
+    text-align: left;
+}
+#header 
+{
+    top:-13px;
+	position: relative;	
+	background-color: #3c4543;
+	clear:both;
+	color:Aqua;	
+    left: 1px;
+    height: 150px;
+    width:auto
+}
+#btn
+{
+    clear:both;
+    background-color:ButtonShadow;
+    text-align: center;
+}
+#footer{
+	clear: both;
+	position: relative;
+	bottom: -20px;	
+	height: 75px;
+	background-color: #3c4543;
+}
+#Img
+{
+    
+    float:left;
+    margin-top: 0px;
+}
+#h2style
+{
+    
+    padding-top:5px;
+    background-color:Silver;
+    text-align:center;
+    font-size:xx-large;
+    color:black ;
+    font-family:Sans-Serif
+}
+#form1
+{
+    background-color:white;
+}
+a:link {color:red;}      /* unvisited link */
+a:visited {color:#00FF00;}  /* visited link */
+a:hover {color:#FF00FF;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+#left
+{
+    float:left;
+    text-align:center;
+    position:relative;
+    width:70%;
+    
+}
+#right
+{
+    float:right;
+    position:relative;
+    width:29% ;
+    border:2px solid Silver;
+}
+#Intro
+{
+    color:Black;
+    font-family:@Batang;
+    font-size:x-large;
+}
+#Button2
+{
+    margin-left:50px
+}
+   
